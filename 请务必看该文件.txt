@@ -1,0 +1,1 @@
+需要在该网址（https://drive.google.com/drive/folders/1nN49gRqt5HvuMptfc0wRVcuLwiNmMD6u）下下载yolov3.weights文件，然后将其与其余所有文件放在同一文件夹下即可
